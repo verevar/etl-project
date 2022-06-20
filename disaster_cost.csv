@@ -1,4 +1,4 @@
-Year,incident_type,Death toll,Damage costUS$,Main article,Location,Notes
+Year,incident_type,Death toll,Damage costUS$,Main article,state,Notes
 2021,Wildfire,2,2300000000,2021 Kansas wildfire outbreak,KS,"On December 15, 2021, a wildfire siege began in Western and Central Kansas due to blustering winds and drought. More than 10 wildfires were reported with an estimated burned area of more than 163,000+ acres. The wildfire outbreak resulted in the deaths of two individuals and the injuries of 3 others. More than 42 structures were destroyed during the outbreak, mainly in the cities of Paradise and Waldo.[1][2]"
 2021,Tornado,90,3900000000,"Tornado outbreak of December 10–11, 2021",KY,"A rare late-season tornado outbreak devastated states across the mid-south midwest, causing widespread damage and fatalities. Kentucky was particularly hard hit, with 75 fatalities occurring in the state. There were also 3 non-tornadic fatalities.[3][4]"
 2021,Hurricane,115,65250000000,Hurricane Ida,LA,"After causing widespread destruction along the Gulf Coast, (specifically Louisiana), Ida moved north, spawned a destructive tornado outbreak, and caused massive flooding in many Northeastern states such as New York, New Jersey and Pennsylvania. Ida is now the sixth-costliest tropical cyclone on record.[5]"
@@ -7,7 +7,7 @@ Year,incident_type,Death toll,Damage costUS$,Main article,Location,Notes
 2021,Hurricane,115,65250000000,Hurricane Ida,PA,"After causing widespread destruction along the Gulf Coast, (specifically Louisiana), Ida moved north, spawned a destructive tornado outbreak, and caused massive flooding in many Northeastern states such as New York, New Jersey and Pennsylvania. Ida is now the sixth-costliest tropical cyclone on record.[5]"
 2021,Hurricane,115,65250000000,Hurricane Ida,NJ,"After causing widespread destruction along the Gulf Coast, (specifically Louisiana), Ida moved north, spawned a destructive tornado outbreak, and caused massive flooding in many Northeastern states such as New York, New Jersey and Pennsylvania. Ida is now the sixth-costliest tropical cyclone on record.[5]"
 2021,Hurricane,115,65250000000,Hurricane Ida,NY,"After causing widespread destruction along the Gulf Coast, (specifically Louisiana), Ida moved north, spawned a destructive tornado outbreak, and caused massive flooding in many Northeastern states such as New York, New Jersey and Pennsylvania. Ida is now the sixth-costliest tropical cyclone on record.[5]"
-2021,Winter storm,237,196500000000,"February 13–17, 2021 North American winter storm",TX,"While the storm was widespread across the U.S., Mexico, and parts of Canada, the worst was in Texas, causing the 2021 Texas power crisis, as the energy infrastructure was unprepared for the freezing temperatures. 237 deaths (as of July 14, 2021), including 223 in the United States and 14 in Mexico.[7][8][9][10]"
+2021,Winter storm,237,1.965E+11,"February 13–17, 2021 North American winter storm",TX,"While the storm was widespread across the U.S., Mexico, and parts of Canada, the worst was in Texas, causing the 2021 Texas power crisis, as the energy infrastructure was unprepared for the freezing temperatures. 237 deaths (as of July 14, 2021), including 223 in the United States and 14 in Mexico.[7][8][9][10]"
 2020,Wildfire,47,19884000000,2020 Western United States wildfire season,CA,One of the most destructive wildfire seasons recorded in the Western United States.[11][12]
 2020,Wildfire,31,12079000000,2020 California wildfires,CA,The largest and the third-most destructive wildfire season on record in California.[13][12]
 2020,Hurricane,331,7900000000,Hurricane Eta,TX,"Long-lived tropical cyclone that made four landfalls. Caused significant amounts of destruction, especially in Central America.[15][11]"
@@ -29,7 +29,7 @@ Year,incident_type,Death toll,Damage costUS$,Main article,Location,Notes
 2017,Wildfire,0,15000000,Goodwin Fire,AZ,"Started in the Bradshaw Mountains near Mayer, Arizona. The fire caused the Yavapai County Sheriff's Office and the Mayer Fire Department to close parts of Highway 69 between Mayer and Dewey-Humboldt. 100+ people had to be evacuated from Mayer and other close communities outside of Mayer also had to be evacuated such as Spring Valley and Cordes Lakes. The fire started on June 24, 2017 and it reached 100% containment on July 10.[37] 5 homes were destroyed and 2 others were damaged.[38]"
 2017,Hurricane,3059,91619000000,Hurricane Maria,FL,"Maria struck Puerto Rico as a high-end Category 4 hurricane, causing catastrophic damage to the US island due to extremely powerful winds and devastating floods. The hurricane also knocked out the entire power grid, triggering a near total island blackout. The lack of aid after the disaster caused a humanitarian crisis, the worst in the US since Hurricane Katrina, which lasted several months and had a dramatic effect on Puerto Rico's population."
 2017,Hurricane,134,77160000000,Hurricane Irma,FL,"Irma ravaged the northern Leeward Islands as an extremely powerful Category 5 hurricane before making landfall in the Florida Keys as a Category 4 hurricane, and in the mainland as a Category 3 hurricane. Irma caused widespread damage in Florida due to high winds and destructive floods. The Florida Keys were hit the hardest, with the vast majority of infrastructure there receiving some degree of damage, and at least 25% receiving major damage. Hurricane Irma also knocked out power to 73% of the state, or 7.7 million homes and businesses."
-2017,Hurricane and Flood,107,125000000000,Hurricane Harvey,TX,"Harvey made landfall in Southwestern Texas as a Category 4 hurricane. Most of the damage from Harvey occurred after it had weakened, due to extreme prolonged rains dropping several feet of water that triggered unprecedented floods in a large swath of Southeastern Texas, with the worst of the flooding occurring in Houston."
+2017,Hurricane and Flood,107,1.25E+11,Hurricane Harvey,TX,"Harvey made landfall in Southwestern Texas as a Category 4 hurricane. Most of the damage from Harvey occurred after it had weakened, due to extreme prolonged rains dropping several feet of water that triggered unprecedented floods in a large swath of Southeastern Texas, with the worst of the flooding occurring in Houston."
 2017,Winter storm and flood,5,1550000000,2017 California floods,CA,"Caused by a series of storms that led to California's wettest rainy season on record, in modern history.[39][40][41]"
 2017,Flood,10,,2017 Payson flash floods,AZ,"One of the deadliest floods to ever hit Gila County, Arizona"
 2016,Wildfire,14,990000000,2016 Great Smoky Mountains wildfires,TN,"Destroyed nearly 2,000 structures; burned nearly 18,000 acres."
@@ -66,7 +66,7 @@ Year,incident_type,Death toll,Damage costUS$,Main article,Location,Notes
 2006,Wildfires,9,226600000,2006 California wildfires,CA,
 2006,Snow storm,19,530000000,"Lake Storm ""Aphid""",NY,
 2005,Hurricane,30,21000000000,Hurricane Wilma,FL,
-2005,Hurricane,1836,125000000000,Hurricane Katrina,LA,
+2005,Hurricane,1836,1.25E+11,Hurricane Katrina,LA,
 2005,Hurricane,120,10000000000,Hurricane Rita,TX,
 2005,Hurricane,15,2500000000,Hurricane Dennis,FL,
 2005,Tornado,25,92000000,Evansville Tornado of November 2005,MO,7 tornadoes
@@ -95,7 +95,7 @@ Year,incident_type,Death toll,Damage costUS$,Main article,Location,Notes
 1990,Tornado,29,160000000,1990 Plainfield tornado,IL,
 1989,Earthquake,69,6000000000,Loma Prieta earthquake,CA,
 1989,Hurricane,49,7000000000,Hurricane Hugo,FL,"Damage figure for U.S. only.  At least 111 total deaths, with 37 in the continental U.S. and 12 in the U.S. possession of Puerto Rico."
-1988,Heat wave and Drought,10000,120000000000,1988-89 North American drought,USA,Costliest natural disaster in the United States prior to Hurricane Katrina.
+1988,Heat wave and Drought,10000,1.2E+11,1988-89 North American drought,USA,Costliest natural disaster in the United States prior to Hurricane Katrina.
 1988,Wildfire,2,240000000,Yellowstone fires of 1988,WY,"793,880 acres (36% of the park) was burned in the fires started by lightning."
 1985,Hurricane,9,1300000000,Hurricane Elena,FL,
 1985,Hurricane,14,900000000,Hurricane Gloria,NJ,
