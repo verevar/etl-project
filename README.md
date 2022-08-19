@@ -29,7 +29,7 @@ https://en.wikipedia.org/wiki/List_of_disasters_by_cost
 In order to transform the public data and use it in our study we performed the following:
 
 * Used Pandas functions in Jupyter Notebook to load CSV files.
-* Reviewed the files and transformed into data frames
+* Reviewed the files and transformed into data frames.
 * Created queries to address our hypothesis by grouping the data by state and getting the sum of the number of natural disasters and the cost per year. We sorted the data by state and year.
 
 ## Load
